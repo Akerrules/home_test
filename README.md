@@ -27,8 +27,9 @@ pip install joblib
 pip install numpy
 pip install sklearn
 pip install scikit-learn
-Then run the python application and return to root:
 ```
+
+Then run the python application and return to root:
 
 #On Windows:
 
