@@ -10,7 +10,7 @@ module.exports = {
         destination:
           process.env.NODE_ENV === "development"
             ? "https://adityakjun.pythonanywhere.com/api/:path*"
-            : "/api/", // Proxy to Backend
+            : "https://adityakjun.pythonanywhere.com/api/", // Proxy to Backend
       },
     ];
   },
